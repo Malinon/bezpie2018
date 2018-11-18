@@ -20,7 +20,7 @@ with open('data.json') as f:
     raw_cookie = data[id]["_source"]["layers"]["http.cookie"][0].encode("ascii","replace")
     cookies = raw_cookie.split("; ")
 
-    driver = webdriver.Chrome()
+    driver = webdriver.Chrome("/home/jakub/chromedriver")
     driver.get("http://"+host+"/")
 
     for c in cookies:
