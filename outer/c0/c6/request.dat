@@ -1,0 +1,10 @@
+GET /user/ HTTP/1.1
+Host: localhost:3000
+Accept-Encoding: gzip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 SF/2.10b
+Range: bytes=0-399999
+Referer: http://localhost/
+Authorization: Basic dGVzdDoxMjM0NTY=
+Cookie: sessionId=cYgUuBz6oHzkIbpPwwIiVhXOkDBOgp6VvbeS5On1SheOzeycLKC9A188NDyzT7VYnBlgBsuWgnoIXZU5b3WjBWT8nnoL5Utm4cohq2CloNBGlycO9POwXvQURwcSGRwiGmjTAmAK2Ti88FiJvYzn5t5sk715AGVip7loO1El4331g0xj5BW9P2jAgi5qhknmMRXhrK5jyZnopstBuCycdGGjExSQl7PotObBNQ0Y1MGvfFGweKG304XeGs0xegRp
+

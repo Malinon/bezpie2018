@@ -1,0 +1,10 @@
+GET /user/potwierdzenie/dane HTTP/1.1
+Host: 127.0.0.1:3000
+Accept-Encoding: gzip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 SF/2.10b
+Range: bytes=0-399999
+Referer: http://127.0.0.1/
+Authorization: Basic a3VidXM6MTIz
+Cookie: sessionId=skfMxOTxlVgiCm2gG8BtnMmX8X72qLzo7WgnfMG5vyZv1dlWIeaVWseviT11JVFtmlRzKFww3jYLH9DmbRPyncEjKw4jwozSCLWiVjmxrFf9Q2QRw3crxi0coWahKBY1Oyt6eXpedoj2CNBVzxETMHY645OiDsRdmsSmIWgS9QlOetxcIIn7a1CUygqeppZMp7nKGaQl3eSLWodYWMCVcoBPKLpC9aXzTTIa7BQnpwJryivOzOsYWfI1ZWTIFbnh
+

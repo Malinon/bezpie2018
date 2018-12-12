@@ -1,0 +1,12 @@
+GET /register/ HTTP/1.1
+Host: localhost:3000
+Accept: */*
+Accept-Language: en,en-US;q=0.5
+User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; SF/2.10b)
+Accept-Encoding: gzip, deflate
+Connection: Keep-Alive
+Range: bytes=0-399999
+Referer: http://localhost/
+Authorization: Basic dGVzdDoxMjM0NTY=
+Cookie: sessionId=cYgUuBz6oHzkIbpPwwIiVhXOkDBOgp6VvbeS5On1SheOzeycLKC9A188NDyzT7VYnBlgBsuWgnoIXZU5b3WjBWT8nnoL5Utm4cohq2CloNBGlycO9POwXvQURwcSGRwiGmjTAmAK2Ti88FiJvYzn5t5sk715AGVip7loO1El4331g0xj5BW9P2jAgi5qhknmMRXhrK5jyZnopstBuCycdGGjExSQl7PotObBNQ0Y1MGvfFGweKG304XeGs0xegRp
+

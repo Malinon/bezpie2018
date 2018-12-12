@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 161
+ETag: W/"a1-RpzZG9Sf1YIYH1CI/lbm0CCBNzU"
+Date: Tue, 11 Dec 2018 20:22:22 GMT
+Connection: keep-alive
+
+<html>Nie ma takiego przelewu<form method="post"><input type="text" name="title" placeholder="Tytu przelewu"/><button name="submit">Submit</button></form></html>

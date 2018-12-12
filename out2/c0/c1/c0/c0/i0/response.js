@@ -1,0 +1,1 @@
+var res = {'data':'HTTP/1.1 200 OK\x0aX-Powered-By: Express\x0aContent-Type: text/html; charset=utf-8\x0aContent-Length: 233\x0aETag: W/\x22e9-rzCFlYnnhzGXUPxjbvmelwpMSsY\x22\x0aDate: Sun, 02 Dec 2018 16:03:22 GMT\x0aConnection: keep-alive\x0a\x0a\x3c!DOCTYPE html\x3chtml\x3eWrong username or password\x3cform method=\x22post\x22'}

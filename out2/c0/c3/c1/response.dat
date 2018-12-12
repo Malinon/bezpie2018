@@ -1,0 +1,11 @@
+HTTP/1.1 302 Found
+X-Powered-By: Express
+Set-Cookie: sessionId=DhtKuOIObNP2UkEKIfVSu62ouG8LtCNoZWUu0E9KAE72KQfSuonctXLaF0lOVnnUGnbmPNpIAf2adwMcwQTqWhE9chDvgMmUk0zXM3Vdwse9er88TkhA3lKBUIYOha7XxdwP8uS8iBL6udhCZmwHGAvSgidh5LcSUMBZvcwQdTJW1KOQqym6IRzzPlqOIpT7pvfjwiWHV6vyV8IzUgxv6GmsiSY3TPJ7EQNJaqa7eSstg3zoipdbOhHbHfHfOKLe; Path=/
+Location: /user
+Vary: Accept
+Content-Type: text/plain; charset=utf-8
+Content-Length: 27
+Date: Sun, 02 Dec 2018 15:58:44 GMT
+Connection: keep-alive
+
+Found. Redirecting to /user

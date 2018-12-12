@@ -1,0 +1,12 @@
+POST /user/przelew/ HTTP/1.1
+Host: 127.0.0.1:3000
+Accept-Encoding: gzip
+Connection: keep-alive
+User-Agent: Mozilla/5.0 SF/2.10b
+Range: bytes=0-399999
+Referer: http://127.0.0.1/
+Cookie: sessionId=xVx1ErhHEYEZ9lwMe8M8im7oZFZ82UuRWPI56r70vbjs60wQxxTEDgTcWUSfLccShiH1x998HejbFivYUDERPistEYwBbuGYZooIxdr4VV2nLHMrfxNybnQvz4UvhKNbWfSHn4QqVx5zUcFZCtw3dl7BKvTvirpNJdXY5NJrjxqeUpxBIzgfwFJozXNtMYJLRrXbUNhKcZmZ9lKns6qjcbvLvcHgmGcu8bpqq1C4qwAz4OozRkoxfVM6M5xKLOnE
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 47
+
+title=9876sfi&targetAccount=1&amount=1&submit=1

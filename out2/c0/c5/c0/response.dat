@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 333
+ETag: W/"14d-+4a6O5/L4VHIOXgjTUkW4HigPDY"
+Date: Sun, 02 Dec 2018 16:01:30 GMT
+Connection: keep-alive
+
+<html><a href="/user/">Lista przelewów</a><a href="/user/przelew">Nowy przelew</a><form method="post"><input type="text" name="title" placeholder="Tytuł"/><input type="text" name="targetAccount" placeholder="Nr konta"/><input type="text" name="amount" placeholder="Kwota"/><button name="submit">Zrób przelew</button></form></html>

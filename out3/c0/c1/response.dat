@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 207
+ETag: W/"cf-P9LB1+fqqP+9CjKB9GLkW3dF190"
+Date: Sun, 02 Dec 2018 16:39:20 GMT
+Connection: keep-alive
+
+<!DOCTYPE html<html><form method="post"><input type="text" name="login" placeholder="login"/><input type="password" name="password" placeholder="password"/><button name="submit">Submit</button></form></html>

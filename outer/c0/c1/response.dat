@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 117
+ETag: W/"75-pv97ApCCgHm4+1McuHgGaTU/MMw"
+Date: Tue, 11 Dec 2018 20:14:47 GMT
+Connection: keep-alive
+
+<html><a href="/login/">Log in   </a><a href="/register">Register   </a><a href="/newPass">Change password</a></html>

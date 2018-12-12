@@ -1,0 +1,5 @@
+var child = [
+  { 'dupe': false, 'type': 64, 'name': 'login=skipfish', 'dir': 'c0', 'linked': 5, 'url': 'http://127.0.0.1:3000/login/ DATA:login=skipfish&password=skipfish&submit=1', 'fetched': true, 'code': 302, 'len': 27, 'decl_mime': 'text/plain', 'sniff_mime': 'text/plain', 'cset': 'utf-8', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 1, 0, 0, 0, 0 ], 'sig': 0x6b1bfc86 },
+  { 'dupe': false, 'type': 64, 'name': 'password=skipfish', 'dir': 'c1', 'linked': 5, 'url': 'http://127.0.0.1:3000/login/ DATA:login=skipfish&password=skipfish&submit=1', 'fetched': true, 'code': 302, 'len': 27, 'decl_mime': 'text/plain', 'sniff_mime': 'text/plain', 'cset': 'utf-8', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 1, 0, 0, 0, 0 ], 'sig': 0x6b1bfc86 },
+  { 'dupe': false, 'type': 64, 'name': 'submit=1', 'dir': 'c2', 'linked': 5, 'url': 'http://127.0.0.1:3000/login/ DATA:login=skipfish&password=skipfish&submit=1', 'fetched': true, 'code': 302, 'len': 27, 'decl_mime': 'text/plain', 'sniff_mime': 'text/plain', 'cset': 'utf-8', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 1, 1, 0, 0, 0 ], 'sig': 0x5b6b2f26 }
+];
